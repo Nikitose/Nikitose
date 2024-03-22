@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![img_contact](./)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
+[![img_contact](./img/globle-light.svg)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
 
 <!--
 **Nikitose/Nikitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
