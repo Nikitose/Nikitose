@@ -2,7 +2,7 @@
 
 ### Me contacter:
 
-[![img_contact](./linkedin.png)]((https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/))
+[![img_contact](./linkedin.png)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
 
 ### Langages et Outils:
 
