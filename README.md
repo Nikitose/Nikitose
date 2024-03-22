@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1 align="center">### Hi there 👋</h1>
 ### Me contacter:
 
 [![img_contact](./linkedin.png)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
