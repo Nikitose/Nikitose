@@ -12,7 +12,12 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;" />
           
-
+```mermaid
+  graph TD;
+      Code-->Eat;
+      Eat-->Sleep;
+      Sleep-->Code;
+```
 <!--
 **Nikitose/Nikitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
