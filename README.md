@@ -2,7 +2,7 @@
 
 ### Je m'appelle Nikita :
 
-- 🔭 Actuellement en 1ᵉ année BUT MMI
+- 🔭 Actuellement en 1ᵉ année de BUT MMI
 - 🌱 Je me lance avec passion dans le monde du développement web, pour, dans le futur, devenir un pro.
 - 🗿 Très rigoureux et organisé
 
