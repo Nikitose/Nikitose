@@ -4,7 +4,7 @@ Me contacter :
 [![img_contact](./img/globle-light.svg)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
 
 langages et outils :
-[img align="left" alt="AWS width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+[img align="left" alt="AWS width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>]
           
 
 <!--
