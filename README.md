@@ -5,7 +5,7 @@
 [![img_contact](./linkedin.png)](https://mikecodeur.com#gh-light-mode-only)
 [![img_contact](./linkedin.png)](https://mikecodeur.com#gh-dark-mode-only)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="./linkedin.png" style="padding-right:10px;" />][youtubeplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="./linkedin.png" style="padding-right:10px;" />
 
 ### Langages et Outils:
 
