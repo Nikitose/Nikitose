@@ -1,10 +1,10 @@
 <h1 align="center">Bonjour tout le monde👋</h1>
 
-### Me contacter:
+### Je m'appelle Nikita :
 
 - 🔭 Actuellement en 1ᵉ année BUT MMI
-- 🌱 I’m currently learning ...
-- 
+- 🌱 Je me lance avec passion dans le monde du développement web, pour, dans le futur, devenir un pro.
+- 🗿 Très rigoureux et organisé
 
 
 ### Me contacter:
