@@ -2,8 +2,8 @@
 
 ### Me contacter:
 
-[![img_contact](./img/linkedin.png)](https://mikecodeur.com#gh-light-mode-only)
-[![img_contact](./img/linkedin.png)](https://mikecodeur.com#gh-dark-mode-only)
+[![img_contact](./linkedin.png)](https://mikecodeur.com#gh-light-mode-only)
+[![img_contact](./linkedin.png)](https://mikecodeur.com#gh-dark-mode-only)
 
 ### Langages et Outils:
 
