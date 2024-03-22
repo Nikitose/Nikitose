@@ -5,6 +5,8 @@
 [![img_contact](./linkedin.png)](https://mikecodeur.com#gh-light-mode-only)
 [![img_contact](./linkedin.png)](https://mikecodeur.com#gh-dark-mode-only)
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="./linkedin.png" style="padding-right:10px;" />][youtubeplaylist]
+
 ### Langages et Outils:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
