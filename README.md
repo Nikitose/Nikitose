@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+Me contacter :
 [![img_contact](./img/globle-light.svg)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
+
+langages et outils :
 
 <!--
 **Nikitose/Nikitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
