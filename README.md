@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋</h1>
+<h1 align="center">Bonjour les coders 👋</h1>
 
 ### Je m'appelle Nikita :
 
