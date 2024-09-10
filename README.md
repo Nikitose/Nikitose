@@ -3,7 +3,7 @@
 ### Je m'appelle Nikita :
 
 - 🔭 Actuellement en 2ᵉ année de BUT MMI
-- 🌱 Je me lance avec passion dans le monde du développement web, pour, dans le futur, devenir un pro du web.
+- 🌱 Je suis lancé avec passion dans le monde du développement web, pour, dans le futur, devenir un pro du web.
 - 🗿 Très rigoureux et organisé
 
 
