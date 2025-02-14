@@ -3,9 +3,9 @@
 ### Je m'appelle Nikita :
 
 - 🔭 En 2ᵉ année de BUT Métiers du Multimédia et de l'Internet.
-- 🔎 À la recherche d'un stage en Développement WEB full stack.
+- 🔎 En recherche de stage en développement web (full-stack).
 - 🌱 Je suis lancé avec passion dans le monde du développement web, pour, dans le futur, devenir un pro du web.
-- 🗿 Très rigoureux et persévérant
+- 🗿 Très rigoureux et persévérant !
 
 
 ### Me contacter:
