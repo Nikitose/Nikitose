@@ -11,7 +11,7 @@
 
 [![img_contact](./linkedin.png)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
 
-### Langages et Outils:
+### Langages :
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -22,10 +22,14 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
+
+###  Outils:
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
+
+
 
 <br />
 <br />
