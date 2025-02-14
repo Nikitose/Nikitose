@@ -25,6 +25,9 @@
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
