@@ -8,7 +8,7 @@
 - 🗿 Très rigoureux et persévérant !
 
 
-### Me contacter:
+### Me contacter :
 
 [![img_contact](./linkedin.png)](https://www.linkedin.com/in/nikita-kuznetsov-367ba82b7/)
 
@@ -28,7 +28,7 @@
 
 
 
-###  Outils:
+###  Outils :
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
