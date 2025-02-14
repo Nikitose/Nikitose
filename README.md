@@ -4,7 +4,7 @@
 
 - 🔭 Actuellement en 2ᵉ année de BUT MMI
 - 🌱 Je suis lancé avec passion dans le monde du développement web, pour, dans le futur, devenir un pro du web.
-- 🗿 Très rigoureux et organisé
+- 🗿 Très rigoureux et persévérant
 
 
 ### Me contacter:
